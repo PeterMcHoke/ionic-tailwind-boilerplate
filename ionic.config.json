@@ -1,0 +1,7 @@
+{
+  "name": "blank-ionic-tailwind",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
