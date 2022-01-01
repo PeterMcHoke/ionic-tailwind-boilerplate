@@ -1,0 +1,4 @@
+.container {
+  @apply text-center absolute left-0 right-0 top-1/2 w-full mx-auto;
+  transform: translateY(-50%);
+}
